@@ -1,0 +1,10 @@
+SMAP
+candidate_jsp.java
+JSP
+*S JSP
+*F
++ 0 candidate.jsp
+candidate.jsp
+*L
+1,187:44
+*E
